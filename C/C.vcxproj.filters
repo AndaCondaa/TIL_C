@@ -102,5 +102,8 @@
     <ClCompile Include="1495_zigzag.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="1240_sqrt.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
