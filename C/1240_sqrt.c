@@ -29,6 +29,7 @@ int main()
 			break;
 		}
 	}
+	
 	printf("%d", tmp);
 
 	return 0;

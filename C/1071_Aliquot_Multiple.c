@@ -1,4 +1,4 @@
-//1071:╬Ю╪Ж©м ╧Х╪Ж
+//1071:О©╫О©╫О©╫О©╫О©╫ О©╫О©╫О©╫
 #include <stdio.h>
 #include <stdlib.h>
 int main()
@@ -13,7 +13,7 @@ int main()
 	}
 	scanf("%d", &m);
 
-	//╬Ю╪Ж╠╦го╠Б
+	//О©╫О©╫О©╫О©╫О©╫О©╫о╠О©╫
 	count_Ali = (int*)malloc(sizeof(int) * (m + 1));
 	memset(count_Ali, 0, (sizeof(int) * (m + 1)));
 	for (int i = 1; i <= m; i++)
@@ -31,7 +31,7 @@ int main()
 		}
 	}
 	printf("%d\n", sum_Ali);
-	//╧Х╪Ж╠╦го╠Б
+	//О©╫О©╫О©╫О©╫О©╫О©╫о╠О©╫
 	max = input[0];
 	for (int i = 0; i < n; i++)
 	{
