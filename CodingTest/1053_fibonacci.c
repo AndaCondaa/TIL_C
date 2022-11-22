@@ -10,6 +10,7 @@ int main()
 		R=P(n);
 		printf("%d\n", R%10000);
 	} while (n != -1);
+	
 
 	return 0;
 }
