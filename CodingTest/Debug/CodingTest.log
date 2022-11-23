@@ -1,2 +1,4 @@
-﻿  test.cpp
+﻿  1078_starcraft.cpp
+C:\Users\KOSA\Desktop\TIL_C\CodingTest\1078_starcraft.cpp(42,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\KOSA\Desktop\TIL_C\CodingTest\1078_starcraft.cpp(46,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   CodingTest.vcxproj -> C:\Users\KOSA\Desktop\TIL_C\Debug\CodingTest.exe
