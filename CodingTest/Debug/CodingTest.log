@@ -1,4 +1,7 @@
-﻿  1078_starcraft.cpp
-C:\Users\KOSA\Desktop\TIL_C\CodingTest\1078_starcraft.cpp(42,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\KOSA\Desktop\TIL_C\CodingTest\1078_starcraft.cpp(46,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+﻿  CodingTest1.cpp
+C:\Users\KOSA\Desktop\TIL_C\CodingTest\CodingTest1.cpp(19,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\KOSA\Desktop\TIL_C\CodingTest\CodingTest1.cpp(22,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\KOSA\Desktop\TIL_C\CodingTest\CodingTest1.cpp(31,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\KOSA\Desktop\TIL_C\CodingTest\CodingTest1.cpp(102): warning C4715: 'left': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\Users\KOSA\Desktop\TIL_C\CodingTest\CodingTest1.cpp(137): warning C4715: 'right': 모든 제어 경로에서 값을 반환하지는 않습니다.
   CodingTest.vcxproj -> C:\Users\KOSA\Desktop\TIL_C\Debug\CodingTest.exe
